@@ -1,7 +1,9 @@
 {
     "name": "Vhrtz.Unity.UnityToolDevLibrary.Editor",
     "rootNamespace": "Vhrtz.EditorOnly",
-    "references": [],
+    "references": [
+        "GUID:62bcef6be4ae61d4cb0b4fd10b390f76"
+    ],
     "includePlatforms": [
         "Editor"
     ],
